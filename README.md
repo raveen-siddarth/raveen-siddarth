@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
- <a href="https://www.instagram.com/raveen_sid_777?igsh=MjUxbXowZnd4MWlr">
+ <a href="">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
